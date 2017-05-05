@@ -1,0 +1,2 @@
+# alarmer
+Automate CloudWatch alarms
